@@ -20,12 +20,12 @@ Este projeto consiste em um **carrossel de imagens** interativo, criado com **HT
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/felipi-hub/FELIPI.Historia da Internet.git
     ```
 
 2. Navegue até a pasta do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd HTML5
     ```
 
 3. Abra o arquivo `index.html` no seu navegador.
